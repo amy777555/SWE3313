@@ -3,7 +3,7 @@
 Amy Ward
 
 **Email:** award62@students.kennesaw.edu  
-**GitHub:** [github.com/amy777555][(https://github.com/amy777555)
+**GitHub:** [(https://github.com/amy777555)
 
 
 ---
