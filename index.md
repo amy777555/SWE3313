@@ -1,6 +1,4 @@
-# SWE3313
-
-Amy Ward
+# Amy Ward
 
 **Email:** award62@students.kennesaw.edu  
 **GitHub:** [(https://github.com/amy777555)
