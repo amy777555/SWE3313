@@ -3,13 +3,8 @@
 **Email:** award62@students.kennesaw.edu  
 **GitHub:** [(https://github.com/amy777555)
 
-
----
-
 ## Professional Summary
 CS student passionate about software development, databases, and computer systems, with projects in algorithms, data structures, and graph theory. Recognized for adaptability, collaboration, and analytical problem-solving.
-
----
 
 ## Education  
 **Kennesaw State University**   
@@ -21,23 +16,20 @@ Expected Graduation: 2027
 *Bachelor of Science in Biology*  
 Graduated May 2020  
 
-
----
-
 ## Technical Experience
-**Data Annotation Specialist** · DataAnnotation.tech  
-*January 2024 – Present*  
-- Evaluated and trained AI models by reviewing structured datasets and test prompts.  
-- Analyzed outputs for correctness, accuracy, and adherence to instructions.  
-- Provided feedback to improve model reasoning and real-world reliability.  
 
+### January 2024 – Present
+**Data Annotation Specialist** · DataAnnotation.tech 
+- Reviewed, labeled, and validated data to train and improve AI and machine learning models.
+- Applied critical thinking to evaluate AI-generated outputs for accuracy, safety, relevance, and clarity.
+- Provided detailed feedback on natural language responses, enhancing model performance and reducing errors.
+
+### June 2021 – Present
 **Server / Bartender / Trainer / Key Manager** · The Woodall  
-*2021 – Present*  
-- Trained new employees, managed shift operations, and oversaw closing procedures.  
-- Delivered high-quality customer service in a fast-paced environment.  
-- Balanced leadership, communication, and multitasking under pressure.  
-
----
+- Trained and mentored new employees, ensuring adherence to service standards and operational procedures.
+- Managed opening and closing responsibilities, balancing staff coordination and cash handling.
+- Delivered high-quality customer service in a fast-paced environment, resolving issues quickly and maintaining client satisfaction.
+- Oversaw shift operations, demonstrating leadership, adaptability, and strong communication skills. 
 
 ## Projects  
 **Pygame Hangman Game (Python)**  
@@ -52,8 +44,6 @@ Graduated May 2020
 - Implemented recursive algorithms for validation, reversal, and inversion of DNA sequences.  
 - Developed codon-to-amino-acid translation functionality for biological sequence analysis.  
 
-
----
 
 ## Technical Skills
 - **Languages:** Java, Python, C#, R, SQL  
