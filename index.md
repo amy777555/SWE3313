@@ -11,15 +11,15 @@ CS student passionate about software development, databases, and computer system
 
 ---
 
-## Education
-**Kennesaw State University**  
-*Bachelor of Science in Computer Science*
-*Minor in Software Engineering*
-Expected Graduation: 2027
+## Education  
+**Kennesaw State University**   
+*Bachelor of Science in Computer Science*  
+*Minor in Software Engineering*  
+Expected Graduation: 2027  
 
-**Kennesaw State University**  
-*Bachelor of Science in Biology*
-Graduated May 2020
+**Kennesaw State University**    
+*Bachelor of Science in Biology*  
+Graduated May 2020  
 
 
 ---
