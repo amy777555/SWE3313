@@ -1,7 +1,7 @@
 # Amy Ward
 
 **Email:** award62@students.kennesaw.edu  
-**GitHub:** [(https://github.com/amy777555)
+**GitHub:** https://github.com/amy777555
 
 ## Professional Summary
 CS student passionate about software development, databases, and computer systems, with projects in algorithms, data structures, and graph theory. Recognized for adaptability, collaboration, and analytical problem-solving.
