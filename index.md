@@ -39,18 +39,18 @@ Graduated May 2020
 
 ---
 
-## Projects
-**Multithreaded Alarm System (Java)**  
-- Designed a custom `Alarm` class extending `Thread` to manage timers and notifications.  
-- Implemented graceful thread management and override methods.  
-
+## Projects  
 **Pygame Hangman Game (Python)**  
-- Created an interactive Hangman game with GUI event handling and file-based word storage.  
+- Designed an interactive word-guessing game with GUI using Pygame.  
+- Implemented event handling, user input validation, and modular code design.
+  
+**Order Queue and Inventory System (Java)**  
+- Built a multithreaded producer–consumer simulation using concurrent queues.  
+- Processed purchase orders and managed shared resources with thread coordination.      
 
-**Order Queue & Inventory System (Java)**  
-- Built a multithreaded producer–consumer simulation using concurrent queues.
-- processed purchase orders and managed shared resources.
-
+**DNA Sequence Analyzer (Java)**  
+- Implemented recursive algorithms for validation, reversal, and inversion of DNA sequences.  
+- Developed codon-to-amino-acid translation functionality for biological sequence analysis.  
 
 
 ---
